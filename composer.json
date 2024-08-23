@@ -1,5 +1,6 @@
 {
     "name": "yt/composer-sample",
+    "description": "It's for practice.",
     "autoload": {
         "psr-4": {
             "Yt\\ComposerSample\\": "src/"
