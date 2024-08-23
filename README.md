@@ -1,0 +1,2 @@
+# composerSample
+composer経由で当該リポジトリのコードを参照できるかテストする
