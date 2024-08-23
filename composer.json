@@ -1,5 +1,7 @@
 {
     "name": "yt/composer-sample",
+    "description": "It's for practice.",
+    "license": ["MIT"],
     "autoload": {
         "psr-4": {
             "Yt\\ComposerSample\\": "src/"
